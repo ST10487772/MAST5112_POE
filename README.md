@@ -199,8 +199,8 @@ Average prices auto-update when items are added or removed.
 
 Filter Screen shows only selected course dishes. 
 
-🎥 YouTube Link: 
-👉  
+YouTube Link: 
+👉  https://www.youtube.com/watch?v=bKR_mwqO6Zw 
 
 GitHub Repository 
 
